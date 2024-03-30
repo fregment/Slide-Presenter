@@ -1,5 +1,5 @@
 # Slide-Presenter
- A tool to automatically generate video presentation with a voice over from Power Point presentations.
+ A tool to automatically generate video presentations with a voice over from Power Point presentations.
 
 
 ## Installation
